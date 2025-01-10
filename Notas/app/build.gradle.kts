@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.a24639_a25269.notas"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.a24639_a25269.notas"
         minSdk = 25
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
